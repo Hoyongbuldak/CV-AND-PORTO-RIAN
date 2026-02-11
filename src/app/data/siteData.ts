@@ -155,7 +155,7 @@ export const portfolioData = {
     },
     {
       id: 2,
-      title: "Mie Ayam Menu Design",
+      title: "Yie Amam Menu Design",
       category: "Design Only",
       description: "Digital menu design for a small restaurant. Focused on making it easy to read and nice to look at.",
       image: "/images/mayam.jpg",  
